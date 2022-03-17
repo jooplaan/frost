@@ -1,8 +1,12 @@
 {
-	"name": "wpengine/themes",
-	"type": "package",
-	"description": "A collection of experimental block-based WordPress themes by WP Engine.",
-	"homepage": "https://github.com/wpengine/themes",
+	"name": "jooplaan/frosts",
+	"type": "wordpress-theme",
+	"description": "An experimental block theme for designers, developers, and creators. (This is a fork of https://github.com/wpengine/frost)",
+	"keywords": [
+		"WordPress",
+		"Themes"
+	],
+	"homepage": "https://github.com/jooplaan/frost",
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=5.6"
